@@ -23,7 +23,7 @@ struct FrameworkGridView: View {
                     }
                 }
             }
-            .navigationTitle("App Frameworks")
+            .navigationTitle("🍎 Frameworks")
         }
     }
 }
