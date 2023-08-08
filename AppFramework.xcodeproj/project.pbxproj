@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		981233412A81613B00717302 /* FrameworkTitleView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 981233402A81613B00717302 /* FrameworkTitleView.swift */; };
+		981233AB2A81BF9D00717302 /* XDismissButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 981233AA2A81BF9D00717302 /* XDismissButton.swift */; };
 		985930642A7FE8A500F5F17F /* AppFrameworkApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 985930632A7FE8A500F5F17F /* AppFrameworkApp.swift */; };
 		985930682A7FE8A600F5F17F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 985930672A7FE8A600F5F17F /* Assets.xcassets */; };
 		9859306C2A7FE8A600F5F17F /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9859306B2A7FE8A600F5F17F /* Preview Assets.xcassets */; };
@@ -19,6 +21,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		981233402A81613B00717302 /* FrameworkTitleView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FrameworkTitleView.swift; sourceTree = "<group>"; };
+		981233AA2A81BF9D00717302 /* XDismissButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = XDismissButton.swift; sourceTree = "<group>"; };
 		985930602A7FE8A500F5F17F /* AppFramework.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = AppFramework.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		985930632A7FE8A500F5F17F /* AppFrameworkApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppFrameworkApp.swift; sourceTree = "<group>"; };
 		985930672A7FE8A600F5F17F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -64,9 +68,11 @@
 			children = (
 				985930632A7FE8A500F5F17F /* AppFrameworkApp.swift */,
 				985930742A7FE9B000F5F17F /* FrameworkGridView.swift */,
+				981233402A81613B00717302 /* FrameworkTitleView.swift */,
 				9859307C2A8157C500F5F17F /* SafariView.swift */,
 				9859307A2A7FFCA700F5F17F /* FrameworkGridViewModel.swift */,
 				985930762A7FF2AA00F5F17F /* FrameworkDetailView.swift */,
+				981233AA2A81BF9D00717302 /* XDismissButton.swift */,
 				985930782A7FF56800F5F17F /* AFButton.swift */,
 				985930722A7FE8F500F5F17F /* Framework.swift */,
 				985930672A7FE8A600F5F17F /* Assets.xcassets */,
@@ -156,10 +162,12 @@
 			files = (
 				985930772A7FF2AA00F5F17F /* FrameworkDetailView.swift in Sources */,
 				985930752A7FE9B000F5F17F /* FrameworkGridView.swift in Sources */,
+				981233AB2A81BF9D00717302 /* XDismissButton.swift in Sources */,
 				985930732A7FE8F500F5F17F /* Framework.swift in Sources */,
 				985930792A7FF56800F5F17F /* AFButton.swift in Sources */,
 				985930642A7FE8A500F5F17F /* AppFrameworkApp.swift in Sources */,
 				9859307B2A7FFCA700F5F17F /* FrameworkGridViewModel.swift in Sources */,
+				981233412A81613B00717302 /* FrameworkTitleView.swift in Sources */,
 				9859307D2A8157C500F5F17F /* SafariView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
