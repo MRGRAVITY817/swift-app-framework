@@ -18,6 +18,7 @@
 		985930792A7FF56800F5F17F /* AFButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 985930782A7FF56800F5F17F /* AFButton.swift */; };
 		9859307B2A7FFCA700F5F17F /* FrameworkGridViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9859307A2A7FFCA700F5F17F /* FrameworkGridViewModel.swift */; };
 		9859307D2A8157C500F5F17F /* SafariView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9859307C2A8157C500F5F17F /* SafariView.swift */; };
+		98EAA9C22A88FB8200DD7DF3 /* FrameworkDetailViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 98EAA9C12A88FB8200DD7DF3 /* FrameworkDetailViewModel.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -34,6 +35,7 @@
 		985930782A7FF56800F5F17F /* AFButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AFButton.swift; sourceTree = "<group>"; };
 		9859307A2A7FFCA700F5F17F /* FrameworkGridViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FrameworkGridViewModel.swift; sourceTree = "<group>"; };
 		9859307C2A8157C500F5F17F /* SafariView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SafariView.swift; sourceTree = "<group>"; };
+		98EAA9C12A88FB8200DD7DF3 /* FrameworkDetailViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FrameworkDetailViewModel.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -72,6 +74,7 @@
 				9859307C2A8157C500F5F17F /* SafariView.swift */,
 				9859307A2A7FFCA700F5F17F /* FrameworkGridViewModel.swift */,
 				985930762A7FF2AA00F5F17F /* FrameworkDetailView.swift */,
+				98EAA9C12A88FB8200DD7DF3 /* FrameworkDetailViewModel.swift */,
 				981233AA2A81BF9D00717302 /* XDismissButton.swift */,
 				985930782A7FF56800F5F17F /* AFButton.swift */,
 				985930722A7FE8F500F5F17F /* Framework.swift */,
@@ -160,6 +163,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				98EAA9C22A88FB8200DD7DF3 /* FrameworkDetailViewModel.swift in Sources */,
 				985930772A7FF2AA00F5F17F /* FrameworkDetailView.swift in Sources */,
 				985930752A7FE9B000F5F17F /* FrameworkGridView.swift in Sources */,
 				981233AB2A81BF9D00717302 /* XDismissButton.swift in Sources */,
